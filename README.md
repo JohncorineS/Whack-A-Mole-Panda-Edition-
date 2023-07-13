@@ -1,2 +1,2 @@
 # Whack-A-Mole-Panda-Edition-
-new line
+[Whack a mode - panda edition](https://johncorines.github.io/Whack-A-Mole-Panda-Edition-/front.html)
